@@ -1,0 +1,44 @@
+# DLinear (No City Embeddings) MSE by City and Season
+
+| city      | season       |      mse |
+|:----------|:-------------|---------:|
+| Ahmedabad | Monsoon      |  6.05528 |
+| Ahmedabad | Post-Monsoon |  4.36968 |
+| Ahmedabad | Summer       |  7.34862 |
+| Ahmedabad | Winter       |  5.5564  |
+| Bangalore | Monsoon      |  2.53061 |
+| Bangalore | Post-Monsoon |  2.96189 |
+| Bangalore | Summer       |  5.18639 |
+| Bangalore | Winter       |  2.05855 |
+| Chennai   | Monsoon      |  4.86235 |
+| Chennai   | Post-Monsoon |  3.60689 |
+| Chennai   | Summer       |  4.94017 |
+| Chennai   | Winter       |  1.01386 |
+| Delhi     | Monsoon      |  8.19185 |
+| Delhi     | Post-Monsoon |  6.38644 |
+| Delhi     | Summer       | 16.0754  |
+| Delhi     | Winter       |  8.1275  |
+| Hyderabad | Monsoon      |  4.63755 |
+| Hyderabad | Post-Monsoon |  1.68111 |
+| Hyderabad | Summer       |  6.56726 |
+| Hyderabad | Winter       |  2.29207 |
+| Jaipur    | Monsoon      |  4.89127 |
+| Jaipur    | Post-Monsoon |  6.70191 |
+| Jaipur    | Summer       | 12.5852  |
+| Jaipur    | Winter       |  7.36922 |
+| Kolkata   | Monsoon      |  3.42072 |
+| Kolkata   | Post-Monsoon |  2.99657 |
+| Kolkata   | Summer       | 11.5582  |
+| Kolkata   | Winter       |  5.31104 |
+| Lucknow   | Monsoon      |  6.60188 |
+| Lucknow   | Post-Monsoon |  3.86859 |
+| Lucknow   | Summer       | 14.5671  |
+| Lucknow   | Winter       |  7.12427 |
+| Mumbai    | Monsoon      |  1.83938 |
+| Mumbai    | Post-Monsoon |  2.76435 |
+| Mumbai    | Summer       |  4.8214  |
+| Mumbai    | Winter       |  5.24536 |
+| Pune      | Monsoon      |  4.23481 |
+| Pune      | Post-Monsoon |  2.01561 |
+| Pune      | Summer       |  5.25057 |
+| Pune      | Winter       |  3.02811 |

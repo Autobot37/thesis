@@ -1,0 +1,44 @@
+# PatchTST City Embeddings Ablation Analysis
+
+| city      | season       |   mse_no_emb |   mse_with_emb |
+|:----------|:-------------|-------------:|---------------:|
+| Ahmedabad | Monsoon      |      5.7981  |       6.10437  |
+| Ahmedabad | Post-Monsoon |      3.87603 |       3.95437  |
+| Ahmedabad | Summer       |      7.54832 |       7.08372  |
+| Ahmedabad | Winter       |      5.54765 |       6.00106  |
+| Bangalore | Monsoon      |      2.46893 |       2.47882  |
+| Bangalore | Post-Monsoon |      2.92122 |       2.99735  |
+| Bangalore | Summer       |      5.84538 |       5.24023  |
+| Bangalore | Winter       |      1.9245  |       1.86884  |
+| Chennai   | Monsoon      |      5.00059 |       4.28609  |
+| Chennai   | Post-Monsoon |      3.99325 |       3.62758  |
+| Chennai   | Summer       |      5.01998 |       4.73613  |
+| Chennai   | Winter       |      1.0988  |       0.882387 |
+| Delhi     | Monsoon      |      8.75119 |       8.11622  |
+| Delhi     | Post-Monsoon |      4.32909 |       4.64335  |
+| Delhi     | Summer       |     14.5875  |      13.9541   |
+| Delhi     | Winter       |      5.69127 |       4.9814   |
+| Hyderabad | Monsoon      |      4.6591  |       4.99682  |
+| Hyderabad | Post-Monsoon |      1.56651 |       1.4632   |
+| Hyderabad | Summer       |      6.44288 |       7.13417  |
+| Hyderabad | Winter       |      2.41415 |       2.42079  |
+| Jaipur    | Monsoon      |      5.10894 |       5.56566  |
+| Jaipur    | Post-Monsoon |      4.99399 |       4.87439  |
+| Jaipur    | Summer       |     11.4629  |      10.3618   |
+| Jaipur    | Winter       |      6.22271 |       5.7156   |
+| Kolkata   | Monsoon      |      3.50253 |       3.10639  |
+| Kolkata   | Post-Monsoon |      2.75415 |       2.51958  |
+| Kolkata   | Summer       |      9.77787 |       9.72697  |
+| Kolkata   | Winter       |      4.62472 |       4.10967  |
+| Lucknow   | Monsoon      |      6.76108 |       6.28968  |
+| Lucknow   | Post-Monsoon |      2.39685 |       2.62786  |
+| Lucknow   | Summer       |     13.0695  |      12.3641   |
+| Lucknow   | Winter       |      5.24384 |       4.37336  |
+| Mumbai    | Monsoon      |      1.92458 |       2.03444  |
+| Mumbai    | Post-Monsoon |      2.45845 |       2.85956  |
+| Mumbai    | Summer       |      4.42501 |       3.767    |
+| Mumbai    | Winter       |      5.21868 |       5.2446   |
+| Pune      | Monsoon      |      4.58067 |       3.53652  |
+| Pune      | Post-Monsoon |      2.18439 |       2.11415  |
+| Pune      | Summer       |      5.95403 |       6.35285  |
+| Pune      | Winter       |      2.91083 |       2.75835  |
