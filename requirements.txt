@@ -9,3 +9,4 @@ requests>=2.28
 tqdm>=4.65
 properscoring>=0.1
 torch
+plotly
